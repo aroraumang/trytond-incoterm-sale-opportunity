@@ -1,2 +1,0 @@
-trytond-incoterm-sale-opportunity
-=================================
